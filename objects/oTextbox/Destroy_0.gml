@@ -1,0 +1,3 @@
+with(oBrother){
+	canMove = true;
+}

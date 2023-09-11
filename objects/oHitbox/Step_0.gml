@@ -1,0 +1,2 @@
+//Step event
+life --;
