@@ -1,0 +1,1 @@
+eventMap = ds_map_create()
